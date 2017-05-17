@@ -1,6 +1,6 @@
 # main text of home
 name: Yusef Habib
-bio: A Man who travels the world eating noodles
+bio: A Man who codes and wants to travel the world
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -30,8 +30,8 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  shortname: yusefhabib # enter this from your disqus account
+  categories: [blog] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: yusef.habibfernandez
@@ -52,12 +52,12 @@ github: yhabib
 email: habibfernandez@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    yusefhabib:
+        name: Yusef Habib
+        bio: A Man who codes and wants to travel the world
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: yhabib
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
