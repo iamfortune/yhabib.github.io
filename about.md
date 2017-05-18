@@ -18,8 +18,7 @@ layout: page
 	<li>HIIT workout</li>
 </ul>
 
-
-<h2>Human - Machine</h2>
+<h2>Human to Machine</h2>
 
 <ul class="skill-list">
 	<li>HTML - Jade</li>
@@ -37,7 +36,7 @@ layout: page
 	<li>TDD & Continuous Integration</li>
 </ul>
 
-<h2>Human - Human communication skills</h2>
+<h2>Human to Human</h2>
 <ul class="skill-list">
 	<li>Español</li>
 	<li>English</li>
@@ -52,9 +51,10 @@ layout: page
 </ul>
 
 <h2>Education</h2>
-
 <ul>
+  <li><a href="">Full Stack Web Development</a></li>
+  <li><a href="">Freecode Camp</a></li>
 	<li><a href="https://www.uniovi.es/en/estudios/masteres/masteres/-/asset_publisher/d0m7JOOPYmoL/content/master-universitario-en-ingenieria-de-telecomunicacion;jsess">MSc Telecommunications Engineering</a></li>
-  <li>BSc Telecommunications Engineering</li>
+  <li><a href="https://www.uniovi.es/-/grado-en-ingenieria-en-tecnologias-y-servicios-de-telecomunicacion-2014">BSc Telecommunications Engineering</a></li>
 </ul>
 
