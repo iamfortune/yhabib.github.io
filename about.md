@@ -4,7 +4,8 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi there!!!!</p>
+<p>Hi there!!!! I am Yusef Habib and I am a <a href="https://en.wikipedia.org/wiki/Software_craftsmanship">software craftsman</a>. Currently I am teaching JavaScript and Java in the first bootcamp in Zurich. I am not the smartest but I alwasy find a solution, I am not the funniest but I will make you laugh and I am not the tallest but I am 1.93! That means that I am not the best at anything😑, but I pretty good with a buchn of things ✌️!!
+</p>
 
 <p>DRY so in case that you want to know more about my experience 🤓 or my studies 🎓, please refer to my <href="https://www.linkedin.com/yhabib">LinkedIn</a>!!!</p>
 
