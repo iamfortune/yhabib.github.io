@@ -13,7 +13,7 @@ layout: page
 <p>Some other stuff that I find interesting:</p>
 <ul class="inrterest-list">
 	<li>Machine learning</li>
-	<li>Cryptocurrency</li>
+	<li>Cryptocurrencies</li>
   <li>Human Languages</li>
   <li>Cognitive Education</li>
 	<li>HIIT workout</li>
