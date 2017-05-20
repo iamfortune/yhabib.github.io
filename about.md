@@ -52,9 +52,9 @@ layout: page
 
 <h2>Education</h2>
 <ul class="skill-list">
-  <li><a href="https://propulsionacademy.com/full-stack-development/">Full Stack Web Development</a></li>
-  <li><a href="https://www.freecodecamp.com/yhabib/front-end-certification">Freecode Camp</a></li>
 	<li><a href="https://www.uniovi.es/en/estudios/masteres/masteres/-/asset_publisher/d0m7JOOPYmoL/content/master-universitario-en-ingenieria-de-telecomunicacion;jsess">MSc Telecommunications Engineering</a></li>
   <li><a href="https://www.uniovi.es/-/grado-en-ingenieria-en-tecnologias-y-servicios-de-telecomunicacion-2014">BSc Telecommunications Engineering</a></li>
+  <li><a href="https://propulsionacademy.com/full-stack-development/">Full Stack Web Development Bootcamp</a></li>
+  <li><a href="https://www.freecodecamp.com/yhabib/front-end-certification">Freecode Camp</a></li>
 </ul>
 
