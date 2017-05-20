@@ -2,10 +2,10 @@
 title: "CSS inheritance and cascading"
 layout: post
 date: 2017-04-23 18:10
-tag: jekyll
+tag: css
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
-projects: true
+project: true
 hidden: true # don't count this post in blog pagination
 description: "A simple set of exercises for those starting with HTML, CSS and JS"
 category: project

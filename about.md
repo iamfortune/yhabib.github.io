@@ -45,9 +45,9 @@ layout: page
 
 <h2>Experience</h2>
 <ul class="skill-list">
-	<li><a href="https://propulsionacademy.com/">Propulsion Academy</a>Software Engineer - TA</li>
-	<li><a href="http://www.fct.de/">FCT</a>Project Software Engineer - Main JS Engineer</li>
-	<li><a href="https://yhabib.github.io/projects/">Freelance</a>Web Developer</li>
+	<li>Software Engineer - TA at <a href="https://propulsionacademy.com/">Propulsion Academy</a></li>
+	<li>Project Software Engineer at <a href="http://www.fct.de/">FCT</a></li>
+	<li>Web Developer as <a href="https://yhabib.github.io/projects/">Freelance</a></li>
 </ul>
 
 <h2>Education</h2>
