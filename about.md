@@ -6,7 +6,7 @@ layout: page
 
 <p>Hi there!!!! I am Yusef Habib and I am a <a href="https://en.wikipedia.org/wiki/Software_craftsmanship">software craftsman</a>. Currently I am teaching JavaScript and Java in the first bootcamp in Zurich. I am not the smartest but I alwasy find a solution, I am not the funniest but I will make you laugh and I am not the tallest but I am 1.93! That means that I am not the best at anything😑, but I'm pretty good with a buchn of things ✌️!!</p>
 
-<p>DRY so in case that you want to know more about my experience 🤓 or my studies 🎓, please refer to my <href="https://www.linkedin.com/yhabib">LinkedIn</a>!!!</p>
+<p>DRY so in case that you want to know more about my experience 🤓 or my studies 🎓, please refer to my <a href="https://www.linkedin.com/yhabib">LinkedIn</a>!!!</p>
 
 <h2>Interests</h2>
 <p>Some other stuff that I find interesting:</p>
@@ -44,14 +44,14 @@ layout: page
 </ul>
 
 <h2>Experience</h2>
-<ul>
-	<li><a href="https://propulsionacademy.com/"></a>Software Engineer - TA</li>
-	<li><a href="http://www.fct.de/">Project Software Engineer - Main JS Engineer</a></li>
-	<li><a href="https://yhabib.github.io/projects/"></a>Freelance Web Developer</li>
+<ul class="skill-list">
+	<li><a href="https://propulsionacademy.com/">Propulsion Academy</a>Software Engineer - TA</li>
+	<li><a href="http://www.fct.de/">FCT</a>Project Software Engineer - Main JS Engineer</li>
+	<li><a href="https://yhabib.github.io/projects/">Freelance</a>Web Developer</li>
 </ul>
 
 <h2>Education</h2>
-<ul>
+<ul class="skill-list">
   <li><a href="https://propulsionacademy.com/full-stack-development/">Full Stack Web Development</a></li>
   <li><a href="https://www.freecodecamp.com/yhabib/front-end-certification">Freecode Camp</a></li>
 	<li><a href="https://www.uniovi.es/en/estudios/masteres/masteres/-/asset_publisher/d0m7JOOPYmoL/content/master-universitario-en-ingenieria-de-telecomunicacion;jsess">MSc Telecommunications Engineering</a></li>
