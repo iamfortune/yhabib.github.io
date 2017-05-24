@@ -23,6 +23,18 @@ Learn the
 What is a domain?
   Domain and sub-domains
   Relationship to IP address
+  Some importanto IP
+  Internet Homebook
+  IPs are mapped into Domains
+  DNS cache
+  Local Cache 
+  LAN DSN server
+  ISP DNS server
+  TCP/IP basic
+  How to take down all major sites without hacking any of them
+  Importance of DNS on the INternet
+  Security
+
 
 
 #### External Elements

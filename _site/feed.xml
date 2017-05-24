@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-20T19:47:37+02:00</updated><id>http://localhost:4000/</id><title type="html">Yusef Habib</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">CSS inheritance and cascading</title><link href="http://localhost:4000/css-cascading-inheritance/" rel="alternate" type="text/html" title="CSS inheritance and cascading" /><published>2017-04-23T18:10:00+02:00</published><updated>2017-04-23T18:10:00+02:00</updated><id>http://localhost:4000/css-cascading-inheritance</id><content type="html" xml:base="http://localhost:4000/css-cascading-inheritance/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-22T07:17:52+02:00</updated><id>http://localhost:4000/</id><title type="html">Yusef Habib</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">CSS inheritance and cascading</title><link href="http://localhost:4000/css-cascading-inheritance/" rel="alternate" type="text/html" title="CSS inheritance and cascading" /><published>2017-04-23T18:10:00+02:00</published><updated>2017-04-23T18:10:00+02:00</updated><id>http://localhost:4000/css-cascading-inheritance</id><content type="html" xml:base="http://localhost:4000/css-cascading-inheritance/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
 
@@ -26,7 +26,18 @@ If you need some help, just &lt;a href=&quot;http://github.com/sergiokopplin/ind
 &lt;h1 id=&quot;domains&quot;&gt;Domains&lt;/h1&gt;
 &lt;p&gt;What is a domain?
   Domain and sub-domains
-  Relationship to IP address&lt;/p&gt;
+  Relationship to IP address
+  Some importanto IP
+  Internet Homebook
+  IPs are mapped into Domains
+  DNS cache
+  Local Cache 
+  LAN DSN server
+  ISP DNS server
+  TCP/IP basic
+  How to take down all major sites without hacking any of them
+  Importance of DNS on the INternet
+  Security&lt;/p&gt;
 
 &lt;h4 id=&quot;external-elements&quot;&gt;External Elements&lt;/h4&gt;
 &lt;ul&gt;
@@ -136,17 +147,7 @@ If you need some help, just &lt;a href=&quot;http://github.com/sergiokopplin/ind
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;{ % gist sergiokopplin/91ff4220480727b47224245ee2e9c291 % }&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;noscript&gt;&lt;pre&gt;&amp;lt;!DOCTYPE html&amp;gt;
-&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
-&amp;lt;head&amp;gt;
-    &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt;
-    &amp;lt;title&amp;gt;Just a Test!&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
-  &amp;lt;h1&amp;gt;Working!&amp;lt;/h1&amp;gt;
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;&lt;/pre&gt;&lt;/noscript&gt;
-&lt;script src=&quot;https://gist.github.com/sergiokopplin/91ff4220480727b47224245ee2e9c291.js&quot;&gt; &lt;/script&gt;
+&lt;p&gt;true&lt;script src=&quot;https://gist.github.com/sergiokopplin/91ff4220480727b47224245ee2e9c291.js&quot;&gt; &lt;/script&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -303,17 +304,7 @@ If you need some help, just &lt;a href=&quot;http://github.com/sergiokopplin/ind
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;{ % gist sergiokopplin/91ff4220480727b47224245ee2e9c291 % }&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;noscript&gt;&lt;pre&gt;&amp;lt;!DOCTYPE html&amp;gt;
-&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
-&amp;lt;head&amp;gt;
-    &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt;
-    &amp;lt;title&amp;gt;Just a Test!&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
-  &amp;lt;h1&amp;gt;Working!&amp;lt;/h1&amp;gt;
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;&lt;/pre&gt;&lt;/noscript&gt;
-&lt;script src=&quot;https://gist.github.com/sergiokopplin/91ff4220480727b47224245ee2e9c291.js&quot;&gt; &lt;/script&gt;
+&lt;p&gt;true&lt;script src=&quot;https://gist.github.com/sergiokopplin/91ff4220480727b47224245ee2e9c291.js&quot;&gt; &lt;/script&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
