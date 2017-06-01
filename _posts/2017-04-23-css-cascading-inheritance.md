@@ -1,6 +1,6 @@
 ---
 title: "CSS inheritance and cascading"
-layout: post
+layout: 
 date: 2017-04-23 18:10
 tag: css
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
