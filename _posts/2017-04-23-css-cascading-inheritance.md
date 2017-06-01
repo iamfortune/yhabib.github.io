@@ -8,7 +8,7 @@ headerImage: true
 project: true
 hidden: true # don't count this post in blog pagination
 description: "A simple set of exercises for those starting with HTML, CSS and JS"
-category: project
+category: 
 author: yusefhabib
 externalLink: false
 ---

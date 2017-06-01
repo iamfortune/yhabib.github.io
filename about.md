@@ -4,9 +4,15 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi there!!!! I am Yusef Habib and I am a <a href="https://en.wikipedia.org/wiki/Software_craftsmanship">software craftsman</a>. Currently I am teaching JavaScript and Java in the first bootcamp in Zurich. I am not the smartest but I alwasy find a solution, I am not the funniest but I will make you laugh and I am not the tallest but I am 1.93! That means that I am not the best at anything😑, but I'm pretty good with a buchn of things ✌️!!</p>
+<p>Hi there!!!! I am Yusef Habib and I am a <a href="https://en.wikipedia.org/wiki/Software_craftsmanship">software craftsman</a>. My mother tongue is JavaScript and my hometown is the Frontend but I love to learn and go test myself to learn new things(like German 😬).
 
-<p>DRY so in case that you want to know more about my experience 🤓 or my studies 🎓, please refer to my <a href="https://www.linkedin.com/yhabib">LinkedIn</a>!!!</p>
+Right now I spend my days teaching frontend by speaking JavaScript and predicate Reac&Redux and the backend by talking Java and doing tricks with Spring in the first bootcamp in Zurich. 
+
+So if I have to describe myself I would say something like this:
+<q>I am not the smartest but I alwasy find a solution, I am not the funniest but I will make you laugh and I am not the tallest but I am 1.93! That means that I am not the best at anything😑, but I'm pretty good with a buchn of things ✌️!!</q>
+</p>
+
+<p>Following the DRY, if you want to know more about my experience 🤓 or my studies 🎓, please refer to my <a href="https://www.linkedin.com/yhabib">LinkedIn</a>!!!</p>
 
 <h2>Interests</h2>
 <p>Some other stuff that I find interesting:</p>
