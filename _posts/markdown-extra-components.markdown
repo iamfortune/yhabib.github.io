@@ -1,41 +1,29 @@
 ---
-title: "From the Front End to the Full Stack Engineer"
+title: "Markdown Extra Components"
 layout: post
-date: 2017-02-24 14:48
+date: 2017-05-30 20:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- js
-- dns
-- security
-- vim
-category: 
-author: yusefhabib
-description: Learning the dark side
+- markdown
+- components
+- extra
+category: blog
+author: anonymous
+description: Markdown summary with different options
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
-## Summary:
+## Content:
 
-Learn the 
+You can pick as item to see how to apply in markdown.
 
-# Domains
-What is a domain?
-  Domain and sub-domains
-  Relationship to IP address
-  Some importanto IP
-  Internet Homebook
-  IPs are mapped into Domains
-  DNS cache
-  Local Cache 
-  LAN DSN server
-  ISP DNS server
-  TCP/IP basic
-  How to take down all major sites without hacking any of them
-  Importance of DNS on the INternet
-  Security
-
-
+#### Especial Elements
+- [Evidence](#evidence)
+- [Side-by-Side](#side-by-side)
+- [Star](#star)
+- [Especial Breaker](#especial-breaker)
+- [Spoiler](#spoiler)
 
 #### External Elements
 - [Gist](#gist)

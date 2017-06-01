@@ -1,4 +1,4 @@
----
+<!-----
 title: "CSS inheritance and cascading"
 layout: 
 date: 2017-04-23 18:10
@@ -32,4 +32,4 @@ What has inside?
 ---
 
 [Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).-->

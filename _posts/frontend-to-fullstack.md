@@ -1,29 +1,41 @@
----
-title: "Markdown Extra Components"
-layout: post
-date: 2016-02-24 22:48
+<!-----
+title: "From the Front End to the Full Stack Engineer"
+layout: 
+date: 2017-02-24 14:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
-category: blog
-author: anonymous
-description: Markdown summary with different options
+- js
+- dns
+- security
+- vim
+category: 
+author: yusefhabib
+description: Learning the dark side
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
-## Content:
+## Summary:
 
-You can pick as item to see how to apply in markdown.
+Learn the 
 
-#### Especial Elements
-- [Evidence](#evidence)
-- [Side-by-Side](#side-by-side)
-- [Star](#star)
-- [Especial Breaker](#especial-breaker)
-- [Spoiler](#spoiler)
+# Domains
+What is a domain?
+  Domain and sub-domains
+  Relationship to IP address
+  Some importanto IP
+  Internet Homebook
+  IPs are mapped into Domains
+  DNS cache
+  Local Cache 
+  LAN DSN server
+  ISP DNS server
+  TCP/IP basic
+  How to take down all major sites without hacking any of them
+  Importance of DNS on the INternet
+  Security
+
+
 
 #### External Elements
 - [Gist](#gist)
@@ -194,4 +206,4 @@ Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste o
 [3]: http://www.markitdown.net/
 [4]: http://daringfireball.net/projects/markdown/basics
 [5]: http://daringfireball.net/projects/markdown/syntax
-[6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
+[6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg-->
