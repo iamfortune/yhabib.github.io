@@ -11,7 +11,7 @@ Right now I spend my days teaching frontend by speaking JavaScript and predicate
 </p>
 
 <p>
-I will describe myself by saying that <q style={font-style: italic}>I am not the smartest but I alwasy find a solution, I am not the funniest but I will make you laugh and I am not the tallest but I am 1.93! That means that I am not the best at anything😑, but I'm pretty good with a buchn of things ✌️!!</q>
+I will describe myself by saying that <q style="font-style:italic;">I am not the smartest but I alwasy find a solution, I am not the funniest but I will make you laugh and I am not the tallest but I am 1.93! That means that I am not the best at anything😑, but I'm pretty good with a buchn of things ✌️!!</q>
 </p>
 
 <p>Following the DRY principle, please refer to my <a href="https://www.linkedin.com/yhabib">LinkedIn</a> if you want to know more about my experience 🤓 or my studies 🎓!</p>
