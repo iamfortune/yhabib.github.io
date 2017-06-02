@@ -8,7 +8,6 @@ tag:
 category: blog
 author: yusefhabib
 description: Hello World
-# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
 <h4 style="text-align:center;">Hi 👋 my unwary reader</h4>
